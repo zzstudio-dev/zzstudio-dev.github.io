@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KO"
-title                    : "ZZ Studio 공식 블로그"
+title                    : "ZZ Studio Official Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jiwan"
-description              : "An amazing website."
+description              : "Coding. IT Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://zzstudio-dev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "ZZ Studio"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "저는 **코딩** 을 좋아하는 사람입니다."
+  bio              : "I am a person who likes **Coding**."
   location         : "South Korea"
   email            : "rovin840@gmail.com or zzstudio@zzstudio.ml"
   GitHub            : "https://github.com/zzstudio-dev"
