@@ -3,3 +3,5 @@ description: 혁신적. 미래지향적. 크리에이티브적.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github :
+   zip_url : http://example.com/download.zip 
