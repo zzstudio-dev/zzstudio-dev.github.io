@@ -17,10 +17,9 @@ remote_theme : daattali/beautiful-jekyll
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "_posts"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - ZZ Studio IDE: "http://zzide.dothome.co.kr"
 
 # --- Logo --- #
 
