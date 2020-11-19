@@ -11,6 +11,8 @@ title: ZZ Studio Developement
 # Your name to show in the footer
 author: ZZ Studio Official
 
+remote_theme : daattali/beautiful-jekyll
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
